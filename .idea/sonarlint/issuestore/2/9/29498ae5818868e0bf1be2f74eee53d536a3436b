@@ -1,0 +1,7 @@
+
+\
+java:S2123	":Remove this increment or correct the code not to waste it.(øêóıÿÿÿÿ8ÙÿÛ£§.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Á¹ùÿÿÿÿ8ßıÀ£§.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úèÇÓ
+W
+java:S1854	"5Remove this useless assignment to local variable "x".(øêóıÿÿÿÿ8ÙÿÛ£§.

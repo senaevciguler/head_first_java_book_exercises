@@ -75,3 +75,5 @@ S
 #src/main/java/chapter5/MixFor5.java,2\9\29498ae5818868e0bf1be2f74eee53d536a3436b
 ]
 -src/main/java/chapter5/game/SimpleDotCom.java,2\9\29b358296aaf8cf9a269cb15ce710aa84658596a
+R
+"head_first_java_book_exercises.iml,f\d\fd9801ad0baa8fb17c862e30961d1f47a660a6eb
