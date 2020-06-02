@@ -1,0 +1,18 @@
+
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(Ÿé8¯ëù°¥.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ï¸ôßúÿÿÿÿ8­òå°¥.
+T	java:S1060"9Replace this use of System.out or System.err by a logger.(ßÜùe8œÎş°¥.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(—˜á‚üÿÿÿÿ8‚±¥.
+>
+java:S1116;"Remove this empty statement.(Åñ­õşÿÿÿÿ8×ëÌ°¥.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÿÇòıÿÿÿÿ
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¸ÊÅ½üÿÿÿÿ8‹Çí°¥.
+T	java:S106."9Replace this use of System.out or System.err by a logger.(®¤¨
+8´—û°¥.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÑØ¤Ş8‹Çí°¥.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ÜÚ¿û8­Àƒ±¥.
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(¾ßÔ¸8óà°¥.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Üœ«¥8úæë°¥.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹»üüÿÿÿÿ8İ«á°¥.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(€óÓ©ÿÿÿÿÿ8‡ƒş°¥.

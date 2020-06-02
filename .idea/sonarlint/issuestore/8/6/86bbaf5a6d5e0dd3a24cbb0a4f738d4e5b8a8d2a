@@ -1,0 +1,12 @@
+
+K
+java:S1121".Extract the assignment out of this expression.(ù˜‰Ö8®È³¸¥.
+T
+java:S2589"7Remove this expression which always evaluates to "true"(ù˜‰Ö8®È³¸¥.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºë¤ª8ÒÏ™¸¥.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñáš8å‘¸¥.
+T
+java:S2589"7Remove this expression which always evaluates to "true"(€—¥§8®È³¸¥.
+K
+java:S1121".Extract the assignment out of this expression.(€—¥§8®È³¸¥.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øÄïÙøÿÿÿÿ

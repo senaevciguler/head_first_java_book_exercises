@@ -1,0 +1,5 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“ı©Ø8ß¢³ÿ¤.
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çñÕÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—ªí8†¤¹ÿ¤.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¬²×ıÿÿÿÿ8ß¢³ÿ¤.
