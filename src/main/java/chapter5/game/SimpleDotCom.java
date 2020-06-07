@@ -13,6 +13,9 @@ public class SimpleDotCom {
     String checkYourSelf(String userInput) {
         String result = "miss";
         int index = locationCells.indexOf(userInput);
+        if(index < 0){
+            return result;
+        }
         if (index >= 0) {
             locationCells.remove(index);
             if (locationCells.isEmpty()) {

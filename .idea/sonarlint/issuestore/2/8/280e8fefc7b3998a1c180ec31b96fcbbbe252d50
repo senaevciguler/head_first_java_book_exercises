@@ -1,14 +1,0 @@
-
-_
-java:S2184"BCast one of the operands of this division operation to a "double".(šıì‘8×êùé¥.
-]
-java:S2184"@Cast one of the operands of this integer division to a "double".(šıì‘8×êùé¥.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñíæíúÿÿÿÿ8îÜé¥.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇèÆ–8îÜé¥.
-U
-java:S1197"8Move the array designator from the variable to the type.(¤¶ š8îÜé¥.
-W
-java:S1854"5Remove this useless assignment to local variable "x".(‘Éš¢úÿÿÿÿ8îÜé¥.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(æÀÕ¨úÿÿÿÿ8îÜé¥.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(„âÏ£ûÿÿÿÿ8îÜé¥.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø´‡øÿÿÿÿ
